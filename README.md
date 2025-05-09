@@ -16,3 +16,7 @@ It may help to consider the DAG of the parallel program.
 ## Answers
 
 The span of this program is $\Theta(log_2{n})$ because in every iteration we are splitting the graph in half or putting two haves together so this gives us a logrithmic complexity.
+
+## Sources
+
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
